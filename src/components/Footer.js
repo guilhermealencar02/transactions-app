@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container">
         <div className="row">
           <div className="col l6 s12">
-            <h5 className="white-text">Trabalho de conclusão do curso</h5>
+            <h5 className="white-text">Trabalho de Conclusão do Curso</h5>
             <p className="grey-text text-lighten-4">Bootcamp Online - Desenvolvedor Full Stack</p>
             <p className="grey-text text-lighten-4">IGTI – Instituto de Gestão e Tecnologia da Informação</p>
           </div>
